@@ -15,7 +15,7 @@ print(my_list)
 my_list.insert(2,15)
 print(my_list)
 
-numbers=[50,60,70]
+numbers=[50,60,80]
 my_list.extend(numbers)
 print(my_list)
 
